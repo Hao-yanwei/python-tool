@@ -5,5 +5,5 @@
 - [MySQL工具类](https://github.com/Hao-yanwei/python-tool/tree/master/mysql_tool)
 - [Redis工具类](https://github.com/Hao-yanwei/python-tool/tree/master/redis_tool)
 - [ES工具类](https://github.com/Hao-yanwei/python-tool/tree/master/es_tool)
-- [scheduler工具类](https://github.com/Hao-yanwei/python-tool/tree/master/scheduler_tool)
+- [scheduler工具类](https://github.com/Hao-yanwei/python-tool/tree/master/scheduler)
 - [celery工具类](https://github.com/Hao-yanwei/python-tool/tree/master/celery_tool)
