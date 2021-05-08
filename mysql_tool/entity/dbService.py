@@ -6,7 +6,7 @@
 
 import pymysql
 # from DBUtils.PooledDB import PooledDB
-from mysql_tool import config
+import config
 from dbutils.pooled_db import PooledDB
 
 
